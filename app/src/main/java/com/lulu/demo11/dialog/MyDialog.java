@@ -16,7 +16,7 @@ import com.lulu.demo11.R;
 import static android.R.attr.gravity;
 
 /**
- * Created by Administrator on 2018/11/23 0023.
+ * Created by fyl on 2018/11/23 0023.
  */
 
 public class MyDialog {
